@@ -20,3 +20,10 @@ Instead of cramming before a test, review material over several days or weeks, i
 Named after physicist Richard Feynman, this method involves explaining a concept in your own words, as if teaching it to a beginner. Doing this helps you spot gaps in understanding and clarify your thoughts.
 
 Using even one or two of these methods can make your study sessions more productive and less stressful. The key is consistency — find what works best for you and make it a habit.
+   
+
+
+
+
+
+   text created by chatgpt
