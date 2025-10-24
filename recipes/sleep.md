@@ -3,6 +3,7 @@
 
 1. Bed 
 2. Sheets - optional
+3. Pillow
 
 ## How to?
 
